@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamxakhan037&label=Profile%20views&color=0e75b6&style=flat" alt="hamxakhan037" /> </p>
 
-- 👨‍💻 Have a look at my portfolio [Hamza Khan](hamxakhan.me)
+- 👨‍💻 Have a look at my portfolio [Hamza Khan](https://hamxakhan.me)
 
 - 📫 Contact me at **hamzashameer3@gmail.com**
 
